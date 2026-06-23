@@ -1,0 +1,23 @@
+* {
+  margin: 100px;
+}
+body {
+  margin: 30px;
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+input,select {
+  margin-left: 10px;
+}
+
+h2 {
+  margin-top: 40px;
+}
+
+button {
+  padding: 5px 10px;
+  margin-right: 10px;
+}
